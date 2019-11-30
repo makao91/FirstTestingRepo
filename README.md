@@ -1,1 +1,1 @@
-# FirstTestingRepo
+Paragon z zakupow.
